@@ -14,3 +14,4 @@ All of them should be complete with the exception of the navier-stokes solver. T
 - CD_eq_2d.ipynb is for the convection-diffusion equation. 
 - navier-stokes.ipynb is an old attempt at solving the Navier-Stokes equation, and stokes-test.ipynb is a more current, but still buggy, version of the Navier-Stokes solver. There are multiple versions of this latest file
 
+The various test file are for messing around with certain concepts and features - They are not a part of the project.
